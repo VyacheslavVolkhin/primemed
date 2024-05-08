@@ -1315,10 +1315,6 @@
   .tiles-media-box .section-title-wrap .index-block__title {
     font-size: 30px;
   }
-  .tiles-actions-box .items-wrap {
-    -ms-grid-columns: 1fr 1fr;
-        grid-template-columns: 1fr 1fr;
-  }
 }
 @media (min-width: 1200px) {
   .list-menu-box ul {
