@@ -1264,6 +1264,9 @@
   .tiles-items-box .item-wrap {
     width: 25%;
   }
+  .tiles-actions-box:first-child {
+    margin-top: 15px;
+  }
   .tiles-actions-box .items-wrap {
     display: -ms-grid;
     display: grid;
